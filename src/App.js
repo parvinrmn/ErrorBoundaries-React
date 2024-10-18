@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import Cornometr from './components/cornometr';
+import ShowUsers from './components/showUsers';
 
 function App() {
   return (
     <div className="App">
-      <Cornometr/>
+      <ShowUsers/>
     </div>
   );
 }
