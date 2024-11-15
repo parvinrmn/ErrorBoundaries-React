@@ -1,10 +1,10 @@
 import './App.css';
-import ShowUsers from './components/Errorpage';
+import Parent from './component/Parent';
 
 function App() {
   return (
     <div className="App">
-      <ShowUsers/>
+    <Parent/>
     </div>
   );
 }
